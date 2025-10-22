@@ -6,7 +6,7 @@ It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
 
 The app is created by Peela Karthik for helping out the beginners on how to make Simple Weather Application using HTML, CSS &amp; JavaScript
 
-Live Demo:  https://prince-shivaram.github.io/Simple-Weather-App/
+Live Demo:  https://karthik-simple-weather-app.netlify.app/
 
 ## Show some :heart: and :star: the repo if you like the design.
 
